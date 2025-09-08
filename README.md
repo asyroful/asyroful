@@ -1,7 +1,6 @@
 <h1 align="left">Hi 👋 My name Asyroful</h1>
 <h3 align="left">I'm Frontend Engineer and Web development</h3>
 
-- 🌱 I’m currently learning VueJS
 - 📩 Reach me : asyroful.muna12@gmail.com
 
 <h3 align="left">Tools</h3>
