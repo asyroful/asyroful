@@ -1,7 +1,20 @@
 <h1 align="left">Hi 👋 My name Asyroful</h1>
-<h3 align="left">I'm Frontend Engineer and Web development</h3>
+<h3 align="left">I'm Frontend Engineer and Web developer</h3>
 
 - 📩 Reach me : asyroful.muna12@gmail.com
+- 💼 LinkedIn: https://www.linkedin.com/in/muhammad-asyroful-munna-1652a423a
+- 💻 GitHub: https://github.com/asyroful
+
+<h3 align="left">🚀 What I Work With</h3>
+	•	Frontend Development (Vue.js, React.js, Next.js)
+	•	TypeScript & JavaScript
+	•	Responsive Web Applications
+	•	REST API Integration
+	•	Authentication & Authorization (RBAC)
+	•	State Management (Pinia, Vuex, Context API)
+	•	Dynamic Forms & File Upload
+	•	Multi-Environment Configuration (Development, Staging, Production)
+	•	Enterprise Internal Systems
 
 <h3 align="left">Tools</h3>
 <a href="https://www.w3.org/html/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a>
